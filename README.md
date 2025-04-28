@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionately creating bugs since 2021<br>📚 I'm currently learning QA Automation.<br>🎯 My goal is to achieve a 95%+ error free software.<br>🎲 Introvert but I am always eager to stay around chaos!</p>
+<p align="left">✨ Passionately creating test cases and tracking bugs since 2021<br>📚 I'm currently learning QA Automation.<br>🎯 My goal is to achieve a 95%+ error free software.<br>🎲 Introvert, but I am always like to stay surrounded by people!</p>
 
 ###
 
