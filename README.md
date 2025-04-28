@@ -62,10 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thesakib2020/thesakib2020/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/thesakib2020/count.svg?"  />
 </div>
