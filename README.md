@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Dynamic Software Quality Assurance Engineer with a robust background in agile environments, specialized in delivering high-quality software solutions. With over 4 years of hands-on experience, I excel in various testing methodologies, including manual and automated testing. I bring a blend of technical skills and creative problem-solving to every project, aiming to enhance product reliability and user satisfaction.</p>
+<p align="left">Dynamic Software Quality Assurance Engineer with a robust background in agile environments, specialized in delivering high-quality software solutions. With over 4 years of hands-on experience, I excel in various testing methodologies, including manual and automated testing. I bring a blend of technical skills and creative problem-solving to every project, aiming to enhance product reliability and user satisfaction.
+
+Watch this intro video: </p>
 
 ###
 
